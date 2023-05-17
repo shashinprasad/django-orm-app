@@ -10,16 +10,18 @@ Include your ER diagram here
 ## DESIGN STEPS
 
 ### STEP 1:
+Enter the inputs
 
 ### STEP 2:
+Makes your codes
 
 ### STEP 3:
+End the program
 
-Write your own steps
 
 ## PROGRAM
 
-Include your code here
+
 
 ## OUTPUT
 
